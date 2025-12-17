@@ -1,5 +1,4 @@
-# sql-for-qa-ecommerce-project
-This repository contains SQL practice queries based on an e-commerce domain.
+
 # SQL for QA – E-commerce Project
 
 This repository contains SQL practice queries based on an e-commerce domain.
